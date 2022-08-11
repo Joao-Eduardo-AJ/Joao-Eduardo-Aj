@@ -1,5 +1,4 @@
-## Opa, bom te ver... Eu sou o João Eduardo Amorim!
-pode ficar a vontade, só não repara na bagunça...
+## Olá! Eu sou o João Eduardo Amorim!
 
 <div align="center">
   <a href="https://github.com/Joao-Eduardo-AJ">
