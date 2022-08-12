@@ -27,9 +27,15 @@
   
 </div>
 
+## Um pouco sobre mim!
 
-<p align="justify">Aspirante à dev front-end, estudo programação desde o início de 2022, conciliando a graduação em análise e desenvolvimento de sistemas, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem das linguagens de programação, com o objetivo de me especializar em ferramentas Front-End, e após isso, buscarei novos conhecimentos para me tornar um FullStack developer, sei que não será fácil, porém, até então, demonstro rápido aprendizado, se tratando de lógica e novas linguagens.</p>
+<p align="justify">Aspirante à dev front-end, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei mais conhecimento para me tornar um fullStack developer, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p>
 
-- 🌱 Atualmente Estudando TypeScript
-- 👯 Procurando estágio na área de desenvolvimento de sistemas
-- 📫 (51) 99945-9277 / joaoeduaj@gmail.com
+##
+
+<div align="left">
+  <ul>
+    <li>🌱 Atualmente Estudando TypeScript </li>
+    <li>👯 Procurando estágio na área de desenvolvimento de sistemas </li>
+  </ul>
+</div>
