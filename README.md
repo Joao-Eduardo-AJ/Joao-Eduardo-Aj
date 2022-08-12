@@ -27,7 +27,8 @@
   
 </div>
 
-Aspirante ao cargo de desenvolvedor Front-End, estudo programação desde o início de 2022, conciliando a graduação em análise e desenvolvimento de sistemas, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem das linguagens de programação, com o objetivo de me especializar em ferramentas Front-End, e após isso, buscarei novos conhecimentos para me tornar um FullStack developer, sei que não será fácil, porém, até então, demonstro rápido aprendizado, se tratando de lógica e novas linguagens.
+
+<p align="justify">Aspirante à dev front-end, estudo programação desde o início de 2022, conciliando a graduação em análise e desenvolvimento de sistemas, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem das linguagens de programação, com o objetivo de me especializar em ferramentas Front-End, e após isso, buscarei novos conhecimentos para me tornar um FullStack developer, sei que não será fácil, porém, até então, demonstro rápido aprendizado, se tratando de lógica e novas linguagens.</p>
 
 - 🌱 Atualmente Estudando TypeScript
 - 👯 Procurando estágio na área de desenvolvimento de sistemas
