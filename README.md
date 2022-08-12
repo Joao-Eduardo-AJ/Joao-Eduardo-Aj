@@ -1,4 +1,5 @@
 ## Olá! Eu sou o João Eduardo Amorim!
+<p align="center"><a href=""><img width="80%" alt="" src="" /></a></p>
 
 <div align="center">
   <a href="https://github.com/Joao-Eduardo-AJ">
