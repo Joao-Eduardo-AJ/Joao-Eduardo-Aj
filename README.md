@@ -29,7 +29,7 @@
 
 ## Um pouco sobre mim!
 
-<p align="justify">Aspirante à dev front-end, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei mais conhecimento para me tornar um fullStack developer, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p>
+<p align="justify">Aspirante à dev front-end, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei novos conhecimentos para me tornar fullStack, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p>
 
 ##
 
