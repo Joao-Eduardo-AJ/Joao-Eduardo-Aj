@@ -35,7 +35,7 @@
 
 <div align="left">
   <ul>
-    <li>🌱 Atualmente Estudando TypeScript </li>
-    <li>👯 Procurando estágio na área de desenvolvimento de sistemas </li>
+    <li>📚 Atualmente Estudando TypeScript </li>
+    <li>💼 Procurando estágio na área de desenvolvimento de sistemas </li>
   </ul>
 </div>
