@@ -33,6 +33,8 @@
 
 ##
 
+<div class="repo-card" data-repo="Joao-Eduardo-AJ/"></div>
+
 <div align="left">
   <ul>
     <li>🌱 Atualmente Estudando TypeScript </li>
