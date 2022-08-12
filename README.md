@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Eduardo Amorim!
+## Olá! Eu sou o João Eduardo!
 <p align="center"><a href=""><img width="80%" alt="" src="" /></a></p>
 
 <div align="center">
@@ -32,8 +32,6 @@
 <p align="justify">Aspirante à dev front-end, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei novos conhecimentos para me tornar fullStack, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p>
 
 ##
-
-<div class="repo-card" data-repo="Joao-Eduardo-AJ/"></div>
 
 <div align="left">
   <ul>
