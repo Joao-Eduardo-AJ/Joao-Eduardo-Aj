@@ -1,7 +1,6 @@
-## Olá! Eu sou o João Eduardo!
 <p align="center">
   <a href="#">
-    <img width="80%" alt="Eu mesmo" src="../Imagens/joao.png"/>
+    <img width="80%" alt="Eu mesmo" src="./Imagens/joao.png"/>
   </a>
 </p>
 
