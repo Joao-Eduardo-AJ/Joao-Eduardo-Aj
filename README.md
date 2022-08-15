@@ -1,5 +1,9 @@
 ## Olá! Eu sou o João Eduardo!
-<p align="center"><a href=""><img width="80%" alt="" src="..imagens/joao.png"/></a></p>
+<p align="center">
+  <a href="#">
+    <img width="80%" alt="Eu mesmo" src="../Imagens/joao.png"/>
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/Joao-Eduardo-AJ">
