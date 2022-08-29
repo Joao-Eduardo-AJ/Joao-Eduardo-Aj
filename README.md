@@ -27,7 +27,7 @@
   <a href="https://discord.gg/430751947281137665" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaoeduaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
-  
+
 </div>
 
 ## Um pouco sobre mim!
@@ -35,13 +35,16 @@
 <div>
 <p align="justify">Aspirante a dev web, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei novos conhecimentos para me tornar fullStack, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p> 
  </div>
-  <img width="15%" alt="octocat" src="./Imagens/octocat.png"
+  
   
 ##
-
+<img width="15%" alt="octocat" src="./Imagens/octocat.png" align="left">
 <div align="left">
   <ul> 
-    <li>📚 Atualmente Estudando TypeScript </li>
-    <li>💼 Procurando estágio na área de desenvolvimento de sistemas </li>
+    <li>📚 Consolidando os conhecimentos anteriormente adquiridos em HTML e CSS </li>
+    <li>💼 Procurando estágio na área de desenvolvimento web </li>
+    <li>😎 Futuro desenvolvedor fullstack </li>
+    <li>🎨 Atualmente focado em linguagens responsáveis pelo front-end </li>
+    <li>🔜 Próxima ferramenta que irei estudar: TypeScript </li>
   </ul>
 </div>
