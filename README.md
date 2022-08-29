@@ -19,7 +19,7 @@
   
   ##
  
-<div> 
+<div>
 
   <a href="https://www.linkedin.com/in/joao-eduardo-2000s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5551999459277"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -32,12 +32,15 @@
 
 ## Um pouco sobre mim!
 
-<p align="justify">Aspirante a dev web, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei novos conhecimentos para me tornar fullStack, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p>
-
+<div>
+<p align="justify">Aspirante a dev web, estudo desde o início de 2022, conciliando a graduação em ADS, com estudos independentes e relacionando-os na medida do possível. Sigo minha trilha de aprendizagem, afim de me especializar em ferramentas front-end, após isso, buscarei novos conhecimentos para me tornar fullStack, não será fácil, porém, demonstro rápido aprendizado se tratando de lógica e linguagens.</p> 
+ </div>
+  <img width="15%" alt="octocat" src="./Imagens/octocat.png"/>
+  
 ##
 
 <div align="left">
-  <ul>
+  <ul> 
     <li>📚 Atualmente Estudando TypeScript </li>
     <li>💼 Procurando estágio na área de desenvolvimento de sistemas </li>
   </ul>
