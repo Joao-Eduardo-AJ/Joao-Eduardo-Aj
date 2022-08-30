@@ -38,7 +38,7 @@
   
   
 ##
-<img width="15%" alt="octocat" src="./Imagens/octocat.png" align="left">
+<img width="17%" alt="octocat" src="./Imagens/octocat.png" align="left">
 <div align="left">
   <ul> 
     <li>📚 Consolidando os conhecimentos anteriormente adquiridos em HTML e CSS </li>
