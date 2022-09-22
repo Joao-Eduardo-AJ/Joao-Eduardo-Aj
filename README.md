@@ -33,10 +33,10 @@
 ## Um pouco sobre mim!
 
 <div>
-<p align="justify">Sou um profissional tranquilo, determinado e constante, muito sociável.
+<p align="justify">Sou um desenvolvedor front-end tranquilo, determinado e constante, muito sociável.
 Busco entender as pessoas e o ambiente à minha volta. Possuo inúmeros
 hobbies, entre eles, leitura e esportes, priorizo minha evolução pessoal e
-gosto de fazer investimentos.</p> 
+gosto de fazer investimentos. Consumo diariamente conteúdos voltados ao desenvolvimento, afim de me tornar um desenvolvedor fullstack</p> 
  </div>
   
   
