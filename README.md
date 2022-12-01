@@ -45,9 +45,9 @@ gosto de fazer investimentos. Consumo diariamente conteúdos voltados ao desenvo
 <div align="left">
   <ul> 
     <li>📚 Estudando React </li>
-    <li>💼 Procurando estágio na área de desenvolvimento web </li>
+    <li>💼 Estagiando na área de desenvolvimento web </li>
     <li>😎 Futuro desenvolvedor fullstack </li>
     <li>🎨 Atualmente focado em linguagens responsáveis pelo front-end </li>
-    <li>🔜 Próxima ferramenta que irei estudar: PHP </li>
+    <li>🔜 Próxima ferramenta que irei estudar: JAVA </li>
   </ul>
 </div>
