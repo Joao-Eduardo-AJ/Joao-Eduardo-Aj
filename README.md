@@ -33,10 +33,7 @@
 ## Um pouco sobre mim!
 
 <div>
-<p align="justify">Sou um desenvolvedor front-end tranquilo, determinado e constante, muito sociável.
-Busco entender as pessoas e o ambiente à minha volta. Possuo inúmeros
-hobbies, entre eles, leitura e esportes, priorizo minha evolução pessoal e
-gosto de fazer investimentos. Consumo diariamente conteúdos voltados ao desenvolvimento, afim de me tornar um desenvolvedor fullstack</p> 
+<p align="justify">Sou um desenvolvedor front-end, sociável, determinado e constante que prioriza sua evolução pessoal. Busco entender as pessoas e o ambiente à minha volta. Possuo inúmeros hobbies, entre eles, leitura e esportes. Desde o início de 2022, estudo diariamente conteúdos voltados ao desenvolvimento, conciliando a graduação em análise e desenvolvimento de sistemas, com estudos independentes e relacionando-os na medida do possível.</p> 
  </div>
   
   
@@ -46,8 +43,8 @@ gosto de fazer investimentos. Consumo diariamente conteúdos voltados ao desenvo
   <ul> 
     <li>📚 Estudando React </li>
     <li>💼 Estagiando na área de desenvolvimento web </li>
-    <li>😎 Futuro desenvolvedor fullstack </li>
+    <li>😎 Futuro especialista </li>
     <li>🎨 Atualmente focado em linguagens responsáveis pelo front-end </li>
-    <li>🔜 Próxima ferramenta que irei estudar: JAVA </li>
+    <li>🔜 Próxima ferramenta que irei estudar: REDUX</li>
   </ul>
 </div>
