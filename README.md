@@ -45,6 +45,6 @@
     <li>💼 Estagiando na área de desenvolvimento web </li>
     <li>😎 Futuro especialista </li>
     <li>🎨 Atualmente focado em linguagens responsáveis pelo front-end </li>
-    <li>🔜 Próxima ferramenta que irei estudar: REDUX</li>
+    <li>🔜 Próxima tecnologia que irei estudar: REDUX</li>
   </ul>
 </div>
