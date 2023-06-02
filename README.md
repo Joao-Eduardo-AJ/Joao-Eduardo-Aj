@@ -41,10 +41,10 @@
 <img width="17%" alt="octocat" src="./Imagens/octocat.png" align="left">
 <div align="left">
   <ul> 
-    <li>📚 Estudando React </li>
+    <li>📚 Estudando Next</li>
     <li>💼 Estagiando na área de desenvolvimento web </li>
     <li>😎 Futuro especialista </li>
-    <li>🎨 Atualmente focado em linguagens responsáveis pelo front-end </li>
-    <li>🔜 Próxima tecnologia que irei estudar: REDUX</li>
+    <li>🎨 Atualmente focado em tecnologias responsáveis pelo front-end </li>
+    <li>🔜 Próxima tecnologia que irei estudar: SQL</li>
   </ul>
 </div>
