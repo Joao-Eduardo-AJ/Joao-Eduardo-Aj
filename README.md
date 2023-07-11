@@ -50,3 +50,5 @@
     <li>🔜 Próxima tecnologia que irei estudar: SQL</li>
   </ul>
 </div>
+
+![snake gif](https://github.com/Joao-Eduardo-AJ/Joao-Eduardo-AJ/blob/output/github-contribution-grid-snake.svg)
