@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Joao-Eduardo-AJ">
-    <img width="80%" alt="Eu mesmo" src="./Imagens/joao.png"/>
+    <img width="80%" alt="Hi! My name is João Eduardo" src="./Imagens/joao.png"/>
   </a>
 </p>
 
@@ -50,5 +50,3 @@
     <li>🔜 Next technology to study: NODE</li>
   </ul>
 </div>
-
-![snake gif](https://github.com/Joao-Eduardo-AJ/Joao-Eduardo-AJ/blob/output/github-contribution-grid-snake.svg)
