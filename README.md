@@ -32,10 +32,10 @@
 
 </div>
 
-## Um pouco sobre mim!
+## A little about me!
 
 <div>
-<p align="justify">Sou um desenvolvedor front-end, sociável, determinado e constante que prioriza sua evolução pessoal. Busco entender as pessoas e o ambiente à minha volta. Possuo inúmeros hobbies, entre eles, leitura e esportes. Desde o início de 2022, estudo diariamente conteúdos voltados ao desenvolvimento, conciliando a graduação em análise e desenvolvimento de sistemas, com estudos independentes e relacionando-os na medida do possível.</p> 
+<p align="justify">I am a sociable, determined, and consistent front-end developer who prioritizes personal growth. I seek to understand people and the environment around me. I have numerous hobbies, including reading and sports. Since the beginning of 2022, I have been studying development-related content daily, balancing my degree in analysis and systems development with independent studies and integrating them as much as possible.</p> 
  </div>
   
   
@@ -43,11 +43,11 @@
 <img width="17%" alt="octocat" src="./Imagens/octocat.png" align="left">
 <div align="left">
   <ul> 
-    <li>📚 Estudando Nextjs e Tailwind</li>
-    <li>💼 Atuando na área de desenvolvimento web </li>
-    <li>😎 Futuro especialista </li>
-    <li>🎨 Atualmente focado em tecnologias responsáveis pelo front-end </li>
-    <li>🔜 Próxima tecnologia que irei estudar: NODE</li>
+    <li>📚 Studying Next.js and Tailwind</li>
+    <li>💼 Working in the web development field</li>
+    <li>😎 Future specialist</li>
+    <li>🎨 Currently focused on front-end technologies</li>
+    <li>🔜 Next technology to study: NODE</li>
   </ul>
 </div>
 
